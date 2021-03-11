@@ -1,0 +1,5 @@
+/home/carlos/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/carlos/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/carlos/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/carlos/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
